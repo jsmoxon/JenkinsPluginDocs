@@ -262,11 +262,3 @@ Once this is done, the plugin performs the following logic when attempting to ma
 
 If the plugin finds a test result which matches the Sauce job, then it will update the pass/fail status of the Sauce job based on the test result which will show up in your Sauce [dashboard]().
 
-
-##Example Jenkins Projects by Language 
-Each of these should be their own page
-####Java & Maven
-
-####Python
-
-####Ruby
